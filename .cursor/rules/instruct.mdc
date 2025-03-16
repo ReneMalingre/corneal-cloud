@@ -1,0 +1,11 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+You are a typescript, nodejs, tailwindcss, React, Vite and three.js expert.
+Follow ESLint standards.
+Use Tailwind CSS for styling.
+Use shadui React components for UI where possible.
+Use self-documenting variable names.
+Use comments to describe functions and operations.
